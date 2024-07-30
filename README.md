@@ -24,7 +24,7 @@ Chef Food link - https://food-chef.netlify.app
 
 ## Tech Stack
 
-**Client:** Vite, React, Tailwind CSS for styling, Redux for state management
+**Frontend:** Vite, React, Tailwind CSS for styling, Redux for state management
 
 **Deployment:**  Frontend hosted on Netlify for continuous deployment 
 
