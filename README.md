@@ -42,7 +42,7 @@ Chef Food link - https://food-chef.netlify.app
 Clone the project
 
 ```bash
-  git clone https://github.com/supriya626/Food-Chef.git
+  git clone https://github.com/supriyarani-dhal/Food-Chef.git
 ```
 
 Go to the project directory
@@ -72,7 +72,7 @@ If you have any feedback, please reach out to us at supriyadhal50@gmail.com
 
 ## Made by 
 
-- [@supriya626](https://github.com/supriya626) 
+- [@supriya626](https://github.com/supriyarani-dhal) 
 
 
 
