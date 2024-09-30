@@ -72,7 +72,7 @@ If you have any feedback, please reach out to us at supriyadhal50@gmail.com
 
 ## Made by 
 
-- [@supriya626](https://github.com/supriyarani-dhal) 
+- [@supriyarani-dhal](https://github.com/supriyarani-dhal) 
 
 
 
